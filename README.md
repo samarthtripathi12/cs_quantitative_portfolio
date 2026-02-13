@@ -4,8 +4,8 @@
 This research project explores financial market randomness using **Geometric Brownian Motion (GBM)** and **Monte Carlo Simulations**. It bridges the gap between theoretical stochastic differential equations and functional financial software.
 
 ## 🌐 Live Interactive Research Models
-*   [**🚀 View Live: Interactive 3D Volatility Surface**](https://samarthtripathi12.github.io)
-*   [**📊 View Live: Interactive 2D Market Simulation**](https://samarthtripathi12.github.io)
+*   [**📊 View Live: Interactive 2D Market Simulation**](https://samarthtripathi12.github.io/cs_quantitative_portfolio/Stochastic_Market_Simulation_2D.html)
+*   [**🚀 View Live: Interactive 3D Volatility Surface**](https://samarthtripathi12.github.io/cs_quantitative_portfolio/Volatility_Surface_Dynamics_3D.html)
 
 ## 🛠️ Technical Stack
 *   **Engine:** Vectorized **NumPy** implementation for high-speed Monte Carlo path generation.
